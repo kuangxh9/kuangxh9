@@ -9,12 +9,13 @@
 
 ### Research Interests
 
-My research sits at the interface of **geometric deep learning**, **cheminformatics**, and **structure-based drug design**. I am broadly interested in developing machine learning methods that respect the physical symmetries of molecular systems and can generalize across chemical and biological spaces.
+My research lies at the intersection of **geometric deep learning**, **cheminformatics**, **structure-based drug design**, and **agentic AI for drug discovery**. I'm interested in developing machine learning and AI systems that respect the physical symmetries of molecular systems, leverage structural and biochemical knowledge, and support decision-making across chemical and biological spaces.
 
 - Equivariant and geometric neural networks for 3D molecular modeling
 - Graph-based representations of protein–ligand interactions
 - Predictive modeling for drug discovery (binding affinity, ADMET, selectivity)
 - Uncertainty quantification and robust learning on sparse bioassay data
+- Agentic AI systems for molecular design, prioritization, and discovery workflows
 
 ---
 
